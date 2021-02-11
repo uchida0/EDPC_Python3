@@ -1,9 +1,8 @@
 .vscode/*
 /venv
-a_yahoo.py
-b_yahoo.py
-b_yahoo_new.py
-c_yahoo.py
-c_yahoo_new.py
+a_ya.py
+b_ya.py
+b_ya_new.py
+c_ya.py
+c_ya_new.py
 levenshtein.py
-.gitignore
